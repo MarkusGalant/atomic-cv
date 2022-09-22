@@ -1,0 +1,17 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.pre {
+  white-space: pre;
+}
+
+@media print {
+  .shadow-lg {
+    box-shadow: none;
+  }
+
+  .shadow-sm {
+    box-shadow: none;
+  }
+}
