@@ -61,16 +61,17 @@ function CvPage (props: CvPageProps) {
           </a>
         </div>
       </Cover>
-      <div className="py-2 py-lg-2" />
+      <div className="py-2" />
       <Block title="Skills">
         <div className="row">
           {skills.map((it, i) =>
-            (<div className="col-6 col-md-3 py-2" key={`skill-${i}`}>
+            (<div className="col-3  py-2" key={`skill-${i}`}>
             <Skils title={it.name} items={it.items} />
           </div>
             ))}
         </div>
       </Block>
+      <div className="py-2 py-lg-2" />
 
       <Block title="Experience">
         <TimelineWrapper>
