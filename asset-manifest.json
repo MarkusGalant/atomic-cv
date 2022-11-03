@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/atomic-cv/static/css/main.f1dae29f.css",
-    "main.js": "/atomic-cv/static/js/main.837503f2.js",
+    "main.css": "/atomic-cv/static/css/main.7b2a88b4.css",
+    "main.js": "/atomic-cv/static/js/main.1ecdae4a.js",
     "index.html": "/atomic-cv/index.html",
-    "main.f1dae29f.css.map": "/atomic-cv/static/css/main.f1dae29f.css.map",
-    "main.837503f2.js.map": "/atomic-cv/static/js/main.837503f2.js.map"
+    "main.7b2a88b4.css.map": "/atomic-cv/static/css/main.7b2a88b4.css.map",
+    "main.1ecdae4a.js.map": "/atomic-cv/static/js/main.1ecdae4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1dae29f.css",
-    "static/js/main.837503f2.js"
+    "static/css/main.7b2a88b4.css",
+    "static/js/main.1ecdae4a.js"
   ]
 }
