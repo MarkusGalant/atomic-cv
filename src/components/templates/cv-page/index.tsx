@@ -62,7 +62,7 @@ function CvPage (props: CvPageProps) {
         </div>
       </Cover>
       <div className="py-2 py-lg-2" />
-      <Block title="Skils">
+      <Block title="Skills">
         <div className="row">
           {skills.map((it, i) =>
             (<div className="col-6 col-md-3 py-2" key={`skill-${i}`}>
@@ -72,7 +72,7 @@ function CvPage (props: CvPageProps) {
         </div>
       </Block>
 
-      <Block title="Work Experience">
+      <Block title="Experience">
         <TimelineWrapper>
           {experiences.map(it => <ExperienceCard key={it.project} {...it} />)}
         </TimelineWrapper>

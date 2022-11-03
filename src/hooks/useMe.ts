@@ -29,7 +29,7 @@ function useMe () {
         items: ['ASP.NET Core', 'Entity Framework', 'AutoMapper', 'Dapper', 'MediatR']
       },
       {
-        name: 'DB & OREM',
+        name: 'DB & ORM',
         items: ['MSSQL', 'Mongo DB', 'S3, DynamoDB', 'Elastic search', 'Entity Framework', 'TypeORM', 'Mongoose']
       },
       {
